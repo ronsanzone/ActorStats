@@ -1,0 +1,1450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$rou",
+				"$routeParams"
+			],
+			[
+				"anu",
+				"angularFire"
+			],
+			[
+				"$route",
+				"angular: $routeParams"
+			],
+			[
+				"it",
+				"it	it \"should description\" do … end"
+			],
+			[
+				"des",
+				"des	describe \"description\" do … end"
+			],
+			[
+				"i",
+				"it	it \"should description\" do … end"
+			],
+			[
+				"click",
+				"click_button"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"rem",
+				"remember_token"
+			],
+			[
+				"spec",
+				"specify"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"upda",
+				"update_users_token"
+			],
+			[
+				"encr",
+				"encrypt_token"
+			],
+			[
+				"user",
+				"user_from_cookie_token"
+			],
+			[
+				"en",
+				"encrypt_token"
+			],
+			[
+				"update",
+				"update_attribute"
+			],
+			[
+				"update_",
+				"update_user_with_session"
+			],
+			[
+				"User",
+				"UserSession"
+			],
+			[
+				"n",
+				"new_"
+			],
+			[
+				"new_rem",
+				"new_remember_token  (function)"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"signin",
+				"signin_path"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ex",
+				"expb	expect with block"
+			],
+			[
+				"sign",
+				"signup_path"
+			],
+			[
+				"bef",
+				"bef	before...end"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"gra",
+				"gravatar_url"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"sh",
+				"should_not"
+			],
+			[
+				"shou",
+				"should_not"
+			],
+			[
+				"pas",
+				"password_confirmation"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user_",
+				"user_with_same_email"
+			],
+			[
+				"invali",
+				"invalid_addresses"
+			],
+			[
+				"sho",
+				"should_not"
+			],
+			[
+				"ha",
+				"have_content"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/src/app/home/home.tpl.html",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n  \"name\": \"ActorStats\",\n  \"version\": \"0.3.1\",\n  \"devDependencies\": {\n    \"angular\": \"~1.0.7\",\n    \"angular-mocks\": \"~1.0.7\",\n    \"bootstrap\": \"~2.3.2\",\n    \"angular-bootstrap\": \"~0.3.0\",\n    \"angular-ui-router\": \"~0.0.1\",\n    \"angular-ui-utils\": \"~0.0.3\"\n  },\n  \"dependencies\": {}\n}\n",
+			"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/bower.json",
+			"file_size": 289,
+			"file_write_time": 1391967075000000,
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/package.json",
+			"settings":
+			{
+				"buffer_size": 965,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"path\": \"/Users/rsanzone/Code/WebDev/ActorStats/ActorStats\"\n		}\n	]\n}\n",
+			"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/ActorStats.sublime-project",
+			"file_size": 93,
+			"file_write_time": 1391968448000000,
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packm",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"linti",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"lintin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"synrspe",
+				"Set Syntax: RSpec"
+			],
+			[
+				"sniperb ",
+				"Snippet: output form_for ERB"
+			],
+			[
+				"snipp",
+				"Snippet: ERB each block"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"synrsp",
+				"Set Syntax: RSpec"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"linting",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"rubytes",
+				"RubyTest: Switch between code and test"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"p",
+				"Project: Save As"
+			],
+			[
+				"mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/rsanzone/Code/WebDev/ng-boilerplate/node_modules/grunt-ngmin/node_modules/ngmin/main.js",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/config/routes.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/users/_user.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/users/index.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/spec/models/user_spec.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/config/environments/test.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/spec/spec_helper.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/controllers/sessions_controller.rb",
+		"/Users/rsanzone/Code/Blog/ronsanzone.github.io/index.html",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/spec/factories.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/db/migrate/20130903211257_add_admin_to_users.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/Gemfile",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/helpers/sessions_helper.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/users/new.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/users/show.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/config/environments/production.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/controllers/application_controller.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/models/user.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/spec/support/utilities.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/assets/javascripts/application.js",
+		"/Users/rsanzone/.ssh/known_hosts",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/db/migrate/20130809044512_add_remember_token_to_users.rb",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/Ruby on Rails.sublime-settings",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/RSpec.sublime-settings",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/controllers/users_controller.rb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/sample-app.sublime-project",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/rsanzone/Code/WebDev/RailsProjects/sample_app/db/migrate/20130804195156_add_index_to_users_email.rb",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/readme.md",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/RubyTest/TestConsole.hidden-tmTheme",
+		"/Users/rsanzone/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ngBoiler",
+			"vendor",
+			"Forever",
+			"Memoirs of the Elephant Man",
+			"app/",
+			"team",
+			"Users",
+			"Ben",
+			"Bob",
+			"name",
+			"Name",
+			"name",
+			"produ",
+			"email",
+			"(@",
+			"@things",
+			"user_path",
+			"Profile",
+			"Invalid",
+			"name",
+			"text_field",
+			"text_fiels",
+			"foobar",
+			"Name",
+			"Email",
+			"Name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/src/app/home/home.tpl.html",
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/bower.json",
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/package.json",
+					"settings":
+					{
+						"buffer_size": 965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								374,
+								374
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/rsanzone/Code/WebDev/ActorStats/ng-boilerplate/ActorStats.sublime-project",
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 253.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"alb",
+				"app/views/templates/albums.html"
+			],
+			[
+				"al",
+				"app/scripts/directives/albums.js"
+			],
+			[
+				"main",
+				"node_modules/grunt-ngmin/node_modules/ngmin/main.js"
+			],
+			[
+				"inde",
+				"build/index.html"
+			],
+			[
+				"con",
+				"app/js/config.js"
+			],
+			[
+				"appj",
+				"app/js/app.js"
+			],
+			[
+				"app/i",
+				"app/index.html"
+			],
+			[
+				"",
+				"app/js/controllers/headercontroller.js"
+			],
+			[
+				"head",
+				"app/views/header.html"
+			],
+			[
+				"header",
+				"app/js/controllers/headercontroller.js"
+			],
+			[
+				"s",
+				"app/js/controllers/signincontroller.js"
+			],
+			[
+				"sig",
+				"app/js/controllers/signupcontroller.js"
+			],
+			[
+				"cong",
+				"app/js/config.js"
+			],
+			[
+				"config",
+				"app/js/config.js"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"nflc",
+				"app/js/controllers/nflcontroller.js"
+			],
+			[
+				"nfls",
+				"app/js/services/nflservice.js"
+			],
+			[
+				"heah",
+				"app/views/header.html"
+			],
+			[
+				"headerco",
+				"app/js/controllers/headercontroller.js"
+			],
+			[
+				"signin",
+				"app/js/controllers/signincontroller.js"
+			],
+			[
+				"signup",
+				"app/js/controllers/signupcontroller.js"
+			],
+			[
+				"userpa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"auth",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_user.",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"userpage",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"facto",
+				"spec/factories.rb"
+			],
+			[
+				"sampleda",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"migra",
+				"db/migrate/20130903211257_add_admin_to_users.rb"
+			],
+			[
+				"userspec",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"in",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"userp",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"fct",
+				"spec/factories.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"us",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"_head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"sesscont",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sess",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"stat",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"userc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"tes",
+				"config/environments/test.rb"
+			],
+			[
+				"user",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"sta",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"_he",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"uti",
+				"spec/support/utilities.rb"
+			],
+			[
+				"usersp",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"authsp",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"sessioh",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessioncon",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sessionh",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"spe",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"appl",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"sessio",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"muser",
+				"app/models/user.rb"
+			],
+			[
+				"hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"appljs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"hses",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"userspe",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"addrem",
+				"db/migrate/20130809044512_add_remember_token_to_users.rb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"speauth",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"spauth",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"sesscon",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sen",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"authe",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"lapp",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"n",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"envp",
+				"config/environments/production.rb"
+			],
+			[
+				"err",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"cuser",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"vuser",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userh",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"usp",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"vsh",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"contes",
+				"config/environments/test.rb"
+			],
+			[
+				"sh",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"r",
+				"config/routes.rb"
+			],
+			[
+				"sho",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"users",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"lapl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"sus",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"suser",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"muse",
+				"app/models/user.rb"
+			],
+			[
+				"migr",
+				"db/migrate/20130804195156_add_index_to_users_email.rb"
+			],
+			[
+				"spuser",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"pagesp",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"staspe",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"statspe",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"spc",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"sps",
+				"spec/requests/static_pages_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true
+}

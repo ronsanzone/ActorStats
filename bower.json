@@ -1,5 +1,5 @@
 {
-  "name": "ng-boilerplate",
+  "name": "ActorStats",
   "version": "0.3.1",
   "devDependencies": {
     "angular": "~1.0.7",
