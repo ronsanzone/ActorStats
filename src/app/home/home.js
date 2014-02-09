@@ -51,18 +51,34 @@ angular.module( 'ngBoilerplate.home', [
 /**
  * And of course we define a controller for our route.
  */
-.controller( 'HomeCtrl', function HomeController( $http, $scope) {
-  $scope.search = "";
-  $scope.test = {test: ""};
+.controller( 'HomeCtrl', function HomeController( getJSONData, $scope) {
+  $scope.search = {name: ""};
 
-  var basepath = 'https://api.themoviedb.org/3/search/person';
+  var basepath = 'https://api.themoviedb.org/3/';
   var api_key_string = '1d1797f948616477d9cb0671d7a280c8';
   var callback_string = 'JSON_CALLBACK';
 
   $scope.searchName = function(searchString) {
-      $http.jsonp(basepath, {params: {api_key:api_key_string, query:searchString, callback:callback_string}}).then(function (response) {
-        $scope.data = response.data;
+      var path = basepath + 'search/person';
+      var parameters = {
+        api_key: api_key_string,
+        query: searchString,
+        callback: callback_string
+      };
+      getJSONData.async(path, parameters).then(function(d) {
+          $scope.data = d;
       });
+  };
+
+  $scope.getActorDetails = function(actorId) {
+    var path = basepath + 'person/' + actorId;
+    var parameters = {
+      api_key: api_key_string,
+      callback: callback_string
+    };
+    getJSONData.async(path, parameters).then(function(d) {
+      $scope.persondata = d;
+    });
   };
 })
 ;

@@ -1,34 +1,37 @@
 <div class="jumbotron">
 	<h1>Actor Statistic Lookup</h1>
 </div>
-<!--   <ul ng-contoller="HomeCtrl">
-  	<li data-ng-repeat="(key, val) in data.results"> 
-		<div class="pannel pannel-default">
-			<label></label>
-		</div>
-  	</li>
-  </ul> -->
-  <div class="row">
-  	<div class="span4">
-		Search Name: <input type="text" name="searchName" ng-model="search">
-		<button class="btn" ng-click="searchName(search)">Search</button>
-  	</div>
-  	<div class="span8">
-  		<table class="table table-condensed">
-  			<thead>
-  				<th>Actor Id</th>
-  				<th>Actor Name</th>
-  				<th>Popularity</th>
-  				<th>Path</th>
-  			</thead>
-  			<tbody>
-  				<tr ng-repeat="(key, val) in data.results">
-  					<td>{{val.id}}</td>
-  					<td>{{val.name}}</td>
-  					<td>{{val.popularity}}</td>
-  					<td>{{val.profile_path}}</td>
-  				</tr>
-  			</tbody>
-  		</table>
-  	</div>
-  </div>
+<div class="row">
+	<div class="span4">
+		Search Name: <input type="text" name="searchName" ng-model="search.name">
+		<button class="btn" ng-click="searchName(search.name)">Search</button>
+	</div>
+	<div class="span8">
+		<table class="table table-condensed">
+			<thead>
+				<th>Actor Id</th>
+				<th>Actor Name</th>
+				<th>Popularity</th>
+				<th>Path</th>
+			</thead>
+			<tbody>
+				<tr ng-repeat="(key, val) in data.results">
+					<td>{{val.id}}</td>
+					<td><a ng-href ng-click="getActorDetails(val.id)">{{val.name}}</a></td>
+					<td>{{val.popularity}}</td>
+					<td>{{val.profile_path}}</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<div class="row">
+	<dl>
+		<dt>Name</dt>
+		<dd>{{persondata.name}}</dd>
+		<dt>Bio</dt>
+		<dd>{{persondata.biography}}</dd>
+		<dt>Birthday</dt>
+		<dd>{{persondata.birthday}}</dd>
+	</dl>
+</div>
